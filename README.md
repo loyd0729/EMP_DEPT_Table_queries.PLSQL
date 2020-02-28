@@ -5,4 +5,5 @@
 * WHERE and AND quries
 * in EMP and DEPT table
 * in Oracle SQL.
+
 */
